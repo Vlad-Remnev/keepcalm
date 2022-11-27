@@ -25,28 +25,28 @@ export const SliderComponent = () => {
         <div className={s.container} onWheel={onWheelSlider}>
             <Slider {...settings} ref={sliderRef} className={s.sliderContainer}>
                 <div>
-                    <img src="/img/slider/sliderOne.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderOne.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
                 <div>
-                    <img src="/img/slider/sliderTwo.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderTwo.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
                 <div>
-                    <img src="/img/slider/sliderThree.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderThree.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
                 <div>
-                    <img src="/img/slider/sliderFour.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderFour.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
                 <div>
-                    <img src="/img/slider/sliderFive.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderFive.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
                 <div>
-                    <img src="/img/slider/sliderSix.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderSix.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
                 <div>
-                    <img src="/img/slider/sliderSeven.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderSeven.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
                 <div>
-                    <img src="/img/slider/sliderEight.jpg" className={s.slideItem} alt="sliderImg"/>
+                    <img src="./img/slider/sliderEight.jpg" className={s.slideItem} alt="sliderImg"/>
                 </div>
             </Slider>
         </div>
