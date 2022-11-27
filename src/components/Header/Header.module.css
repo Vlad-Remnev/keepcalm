@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(0deg, #464341 0%, #010101 100%);
+    padding: 35px 260px;
+    color: #fff;
+}
+
+.phone {
+    font-family: 'Manrope';
+    font-size: 24px;
+    line-height: 33px;
+}

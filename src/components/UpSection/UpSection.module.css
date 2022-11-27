@@ -1,0 +1,49 @@
+.container {
+    margin-top: 50px;
+}
+
+.articleContainer {
+    width: 40%;
+}
+
+.header {
+    font-family: 'OrchideaPro';
+    font-size: 48px;
+    line-height: 110%;
+}
+
+.title {
+    font-family: 'Manrope';
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.article {
+    display: flex;
+    align-items: center;
+    padding-right: 345px;
+}
+
+.article:nth-child(2) {
+    padding-left: 260px;
+}
+
+.firstImg {
+    width: 50%;
+    height: 480px;
+    margin-right: 125px;
+    background-image: url("/public/img/template/temp.jpg");
+    background-position: 100% 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.secondImg {
+    width: 50%;
+    height: 410px;
+    margin-left: 125px;
+    background-image: url("/public/img/template/tempTwo.jpg");
+    background-position: 100% 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

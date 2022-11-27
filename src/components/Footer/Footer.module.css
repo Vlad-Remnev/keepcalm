@@ -1,0 +1,12 @@
+.container {
+    min-height: 200px;
+    margin-top: 160px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: 14px;
+    line-height: 16px;
+    background: #141414;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
