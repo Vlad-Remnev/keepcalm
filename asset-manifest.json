@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/keepcalm/static/css/main.bd66ab73.css",
-    "main.js": "/keepcalm/static/js/main.1d1b8654.js",
-    "static/media/temp.jpg": "/keepcalm/static/media/temp.bab854fb805d1440a1b7.jpg",
-    "static/media/tempTwo.jpg": "/keepcalm/static/media/tempTwo.0c3d1a3cfefc3a8e5b8b.jpg",
-    "static/media/tempFour.jpg": "/keepcalm/static/media/tempFour.da87f2e2f2b3de4617de.jpg",
-    "static/media/tempThree.jpg": "/keepcalm/static/media/tempThree.112a0219ca7e2b5b152c.jpg",
-    "static/media/OrchideaPro-Medium.ttf": "/keepcalm/static/media/OrchideaPro-Medium.6c02bf7eeb2709cbe31b.ttf",
-    "static/media/Manrope-Medium.ttf": "/keepcalm/static/media/Manrope-Medium.7e416a42443e06ed7d57.ttf",
-    "static/media/slick.svg": "/keepcalm/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/keepcalm/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/keepcalm/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/keepcalm/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/keepcalm/index.html",
-    "main.bd66ab73.css.map": "/keepcalm/static/css/main.bd66ab73.css.map",
-    "main.1d1b8654.js.map": "/keepcalm/static/js/main.1d1b8654.js.map"
+    "main.css": "https://Vlad-Remnev.github.io/keepcalm/static/css/main.db5ac107.css",
+    "main.js": "https://Vlad-Remnev.github.io/keepcalm/static/js/main.e3027d14.js",
+    "static/media/temp.jpg": "https://Vlad-Remnev.github.io/keepcalm/static/media/temp.bab854fb805d1440a1b7.jpg",
+    "static/media/tempTwo.jpg": "https://Vlad-Remnev.github.io/keepcalm/static/media/tempTwo.0c3d1a3cfefc3a8e5b8b.jpg",
+    "static/media/tempFour.jpg": "https://Vlad-Remnev.github.io/keepcalm/static/media/tempFour.da87f2e2f2b3de4617de.jpg",
+    "static/media/tempThree.jpg": "https://Vlad-Remnev.github.io/keepcalm/static/media/tempThree.112a0219ca7e2b5b152c.jpg",
+    "static/media/OrchideaPro-Medium.ttf": "https://Vlad-Remnev.github.io/keepcalm/static/media/OrchideaPro-Medium.6c02bf7eeb2709cbe31b.ttf",
+    "static/media/Manrope-Medium.ttf": "https://Vlad-Remnev.github.io/keepcalm/static/media/Manrope-Medium.7e416a42443e06ed7d57.ttf",
+    "static/media/slick.svg": "https://Vlad-Remnev.github.io/keepcalm/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "https://Vlad-Remnev.github.io/keepcalm/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "https://Vlad-Remnev.github.io/keepcalm/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "https://Vlad-Remnev.github.io/keepcalm/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "https://Vlad-Remnev.github.io/keepcalm/index.html",
+    "main.db5ac107.css.map": "https://Vlad-Remnev.github.io/keepcalm/static/css/main.db5ac107.css.map",
+    "main.e3027d14.js.map": "https://Vlad-Remnev.github.io/keepcalm/static/js/main.e3027d14.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd66ab73.css",
-    "static/js/main.1d1b8654.js"
+    "static/css/main.db5ac107.css",
+    "static/js/main.e3027d14.js"
   ]
 }
